@@ -8,7 +8,7 @@ import RoundTabs from '../components/RoundTabs'
 import Pagination from '../components/Pagination'
 import type { Match, Bet } from '../types'
 
-const PAGE_SIZE = 6
+const PAGE_SIZE = 72
 
 type FilterMode = 'group' | 'calendar' | 'round'
 
